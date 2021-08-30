@@ -1,0 +1,22 @@
+{
+  "name": "food-track",
+  "version": "1.0.0",
+  "description": "Mini JavaScript Project to Track nutrients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoGregori/javascript-small-projects.git"
+  },
+  "author": "Federico Gregori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedericoGregori/javascript-small-projects/issues"
+  },
+  "homepage": "https://github.com/FedericoGregori/javascript-small-projects#readme",
+  "dependencies": {
+    "chart.js": "^3.5.1"
+  }
+}
