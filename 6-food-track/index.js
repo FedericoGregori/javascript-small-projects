@@ -1,7 +1,7 @@
 import FetchWrapper from "./fetch-wrapper.js";
 import { capitalize, calculateCalories } from "./helpers.js";
 import AppData from "./app-data.js";
-import "./node_modules/chart.js/dist/Chart.min.js";
+import "./node_modules/chart.js/dist/chart.min.js";
 
 const API = new FetchWrapper(
   "https://firestore.googleapis.com/v1/projects/jsdemo-3f387/databases/(default)/documents/fede-gregori-final-1"
